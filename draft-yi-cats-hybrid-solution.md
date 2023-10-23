@@ -110,13 +110,13 @@ When the distributed routing decision-making mode is adopted, the CATS ingress r
 When the centralized routing decision-making mode is adopted, the network controller selects the optimal service instance and calculates the optimal forwarding path according to the status of computing and network, and sends the results to the ingress router. The ingress router directs user traffic to the path towards the service instance.
 
 ## Workflow Overview
+
 1. The service instance reports the computing information to the cloud management platform.
 2. The cloud management platform processes computing information and send it to the network controller.
-3.1 Distributed routing decision mode: The network controller sends computing information to the network ingress router.
-3.2 Centralized routing decision mode: The network controller selects the optimal service instance and calculates the optimal forwarding path.
-4.1 Distributed routing decision mode: The ingress router selects the optimal service instance and calculates the optimal forwarding path.
-4.2 Centralized routing decision mode: The network controller sends the result of routing desicion to the ingress router.
-5. The ingress router performs traffic steering.
+3. The network controller collect the network information and process it along with computing information.
+ 1. Distributed routing decision mode: The network controller sends computing information to the network ingress router. The ingress router selects the optimal service instance and calculates the optimal forwarding path.
+ 2. Centralized routing decision mode: The network controller selects the optimal service instance, calculates the optimal forwarding path and sends the result to the ingress router.
+4. The ingress router performs traffic steering.
 
 # Security Considerations
 TBD
