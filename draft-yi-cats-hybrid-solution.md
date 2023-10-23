@@ -9,8 +9,8 @@ category: std
 submissionType: IETF
 
 ipr: trust200902
-area: Routing Area
-workgroup: CATS
+area: "Routing"
+workgroup: "Computing-Aware Traffic Steering"
 keyword: Internet-Draft
 
 author:
