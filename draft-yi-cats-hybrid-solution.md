@@ -1,7 +1,7 @@
 ---
 title: Hybrid Computing and Network Awareness and Routing Solution for CATS
 abbrev: Hybrid Solution for CATS
-docname: draft-yi-cats-hybrid-solution-01
+docname: draft-yi-cats-hybrid-solution-latest
 obsoletes:
 updates:
 date:
