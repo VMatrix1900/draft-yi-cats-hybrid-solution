@@ -205,16 +205,16 @@ Table of Contents
    3.  The network controller collect the network information and
        process it along with computing information.
 
-   4.  Distributed routing decision mode: The network controller sends
-       computing information to the network ingress router.  The ingress
-       router selects the optimal service instance and calculates the
-       optimal forwarding path.
+       1.  Distributed routing decision mode: The network controller
+           sends computing information to the network ingress router.
+           The ingress router selects the optimal service instance and
+           calculates the optimal forwarding path.
 
-   5.  Centralized routing decision mode: The network controller selects
-       the optimal service instance, calculates the optimal forwarding
-       path and sends the result to the ingress router.
+       2.  Centralized routing decision mode: The network controller
+           selects the optimal service instance, calculates the optimal
+           forwarding path and sends the result to the ingress router.
 
-   6.  The ingress router performs traffic steering.
+   4.  The ingress router performs traffic steering.
 
 4.  Security Considerations
 
