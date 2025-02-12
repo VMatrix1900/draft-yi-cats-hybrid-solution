@@ -5,9 +5,9 @@
 Computing-Aware Traffic Steering                              X. Yi, Ed.
 Internet-Draft                                              R. Pang, Ed.
 Intended status: Standards Track                            China Unicom
-Expires: 25 April 2024                                            H. Shi
+Expires: 16 August 2025                                           H. Shi
                                                                   Huawei
-                                                         23 October 2023
+                                                        12 February 2025
 
 
   Hybrid Computing and Network Awareness and Routing Solution for CATS
@@ -52,11 +52,11 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 25 April 2024.
+   This Internet-Draft will expire on 16 August 2025.
 
 Copyright Notice
 
-   Copyright (c) 2023 IETF Trust and the persons identified as the
+   Copyright (c) 2025 IETF Trust and the persons identified as the
    document authors.  All rights reserved.
 
    This document is subject to BCP 78 and the IETF Trust's Legal
@@ -223,12 +223,12 @@ Table of Contents
 5.  Normative References
 
    [I-D.ldbc-cats-framework]
-              Li, C., Du, Z., Boucadair, M., Contreras, L. M., Drake,
-              J., Huang, D., and G. S. Mishra, "A Framework for
-              Computing-Aware Traffic Steering (CATS)", Work in
-              Progress, Internet-Draft, draft-ldbc-cats-framework-03, 4
-              August 2023, <https://datatracker.ietf.org/doc/html/draft-
-              ldbc-cats-framework-03>.
+              Li, C., Du, Z., Boucadair, M., Contreras, L. M., and J.
+              Drake, "A Framework for Computing-Aware Traffic Steering
+              (CATS)", Work in Progress, Internet-Draft, draft-ldbc-
+              cats-framework-06, 8 February 2024,
+              <https://datatracker.ietf.org/doc/html/draft-ldbc-cats-
+              framework-06>.
 
    [RFC2119]  Bradner, S., "Key words for use in RFCs to Indicate
               Requirement Levels", BCP 14, RFC 2119,
