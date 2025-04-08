@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2025-04-06T01:36:51.320324+00:00",
+  "timestamp": "2025-04-08T01:24:42.145464+00:00",
   "repo": "VMatrix1900/draft-yi-cats-hybrid-solution",
   "labels": [
     {
@@ -83,6 +83,34 @@
       "mergeCommit": {
         "oid": "057690534f0074b0dc82685396260799bb20cc2e"
       },
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 2,
+      "id": "PR_kwDOKjywMM6RjbTB",
+      "title": "upstream merge template repository",
+      "url": "https://github.com/VMatrix1900/draft-yi-cats-hybrid-solution/pull/2",
+      "state": "OPEN",
+      "author": "VMatrix1900",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [
+        "template_sync"
+      ],
+      "body": "Merge https://github.com/martinthomson/internet-draft-template 9bbaf3f",
+      "createdAt": "2025-04-07T00:48:34Z",
+      "updatedAt": "2025-04-07T00:48:34Z",
+      "baseRepository": "VMatrix1900/draft-yi-cats-hybrid-solution",
+      "baseRefName": "main",
+      "baseRefOid": "057690534f0074b0dc82685396260799bb20cc2e",
+      "headRepository": "VMatrix1900/draft-yi-cats-hybrid-solution",
+      "headRefName": "chore/template_sync_9bbaf3f",
+      "headRefOid": "b8a6abb837725cae0152fd14077f85abccdf2a5e",
+      "closedAt": null,
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
       "comments": [],
       "reviews": []
     }
